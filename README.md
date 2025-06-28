@@ -1,4 +1,3 @@
-# ClimateWins: ML-Based Weather Prediction Project 🌦️
 
 # ClimateWins: ML-Based Weather Prediction Project 🌦️
 
