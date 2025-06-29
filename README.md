@@ -114,7 +114,9 @@ Picture: Optimized CNN accuracy/loss from Exercise 2.5
 
 ## Presentation & Analysis
 Here is the link to the video presentation:  
-📽️ [https://vimeo.com/....](https://vimeo.com/...)
+📽️ https://vimeo.com/1097220218/5a5da6f75d?ts=0&share=copy
+
+The powerpoint slide is provided with the notebooks.
 
 ---
 
